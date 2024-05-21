@@ -73,15 +73,11 @@ void Reverse_Array(struct array *name)
 
 void Reverse2(struct array *arr_name)
 {
-    int temp, i, j;
-
-    //swap(&arr_name->a,&arr_name->a);
+    int i, j;
     
     for(i=0,j=arr_name->length-1; i<j; i++,j--)
     {
-        temp = arr_name->a[i];
-        arr_name->a[i] = arr_name->a[j];
-        arr_name->a[j] = temp;
+         swap(&arr_name->a[i], &arr_name->a[j]);
     }
 }
 
@@ -119,9 +115,9 @@ void LeftRotate(struct array *arr_name, int length)
     arr_name->a[length-1] = b[0];
 }
 
-void swap(struct array *ptr1, struct array *ptr2)
+void swap(int *ptr1, int *ptr2)
 {
-    struct array temp;
+    int temp;
     temp = *ptr1;
     *ptr1 = *ptr2;
     *ptr2 = temp;

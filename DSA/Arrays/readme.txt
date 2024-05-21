@@ -27,3 +27,9 @@ Array ADT
 --> right shift
 --> right rotation
 
+21-05-24
+1. check if array is sorted or not
+--> insertion in a sorted array
+--> checking if an array is sorted or not
+--> arranging -ve on left side of array
+

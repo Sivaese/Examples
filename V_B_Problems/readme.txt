@@ -18,3 +18,9 @@ Simple Problems
 13. calculate x to the power y
 14. multiplication table
 15. sum of natural numbers
+
+21-05-24
+16. fibonacii series
+17. upper case to lower case
+18. lower case to upper case
+19. pascal triangle
