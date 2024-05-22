@@ -33,3 +33,9 @@ Array ADT
 --> checking if an array is sorted or not
 --> arranging -ve on left side of array
 
+22-05-24
+SLinked list
+1. Display elements iteration and recursive
+2. conting elements through both ways iteration and recursive
+3. Adding elements through both ways iteration and recursive
+4. finding maximum in linked list (iteration and recursive)

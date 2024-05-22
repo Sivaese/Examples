@@ -23,4 +23,4 @@ Simple Problems
 16. fibonacii series
 17. upper case to lower case
 18. lower case to upper case
-19. pascal triangle
+19. pascal triangle - not yet completed
