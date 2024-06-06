@@ -61,6 +61,26 @@
 
 06-06-24
 5. Array ADT
+---> Inserting in an array
+---> Deleting from array
+---> Linear Search
+        1. Improving Linear search
+---> Binary search
+---> Get (), Set (), and Avg (), Max (), Min () functions on array
+---> Reverse and shift an array
+---> Check if array is sroted or not
+---> Merging Arrays
+---> Set operations on array - Union, Intersection, and Difference
+---> Problems
+        1. Finding single missing element in an array
+        2. Finding multiple missing elements in an array
+        3. Finding single missing element in an array method - 2
+        4. Finding duplicates in a sorted array
+        5. Finding duplicates in an un-sorted array
+        6. Finding a pair of elements with sum K
+        7. Finding a pair of elements with sum K in sroted array
+        8. Finding max and min in a single scan
+
 07-06-24
 6. Strings
 7. Matrices
@@ -79,17 +99,6 @@
 16. Hashing techniques
 17. Graphs
 
-### English ###
-1. Possessions
-2. State of beings
-3. Actions
-4. Active and Passive voice
----> Level - 2
-5. Model verbs
-6. Levels in describing
-7. Adjectives
-8. Direct and Indirect speech
-9. Causative verbs
-10. Quetstion tags
+
 
 ### Linux ###
