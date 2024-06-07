@@ -4,8 +4,14 @@
 ---> Present Possessions
 ---> Past Possessions
 ---> Future Possessions
- 
-2. State of beings
+
+07-06-24
+2. State of being
+---> Present State
+---> Past State
+---> Future State
+
+
 3. Actions
 4. Active and Passive voice
 ---> Level - 2

@@ -66,7 +66,7 @@
 ---> Linear Search
         1. Improving Linear search
 ---> Binary search
----> Get (), Set (), and Avg (), Max (), Min () functions on array
+---> Get (), Set (), and Sum (), Avg (), and Max (), Min () functions on array
 ---> Reverse and shift an array
 ---> Check if array is sroted or not
 ---> Merging Arrays
