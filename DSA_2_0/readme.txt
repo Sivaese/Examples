@@ -1,6 +1,22 @@
 ### C ###
-1. 
+
+07-06-24
+1. Basics
+---> Pre-processor
+---> Compilation stages
+---> Variable and Data Types
+        1. variable naming convention
+                --> camel case - interCase
+                --> snake case - all are small letters
+                --> for constant - all are capital letters
+
+08-06-24
+
+        2. Data Types
+                -->
+
 ### DSA ###
+
 04-06-24
 1. Pre-requisites
 --> Array basics
