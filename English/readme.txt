@@ -11,8 +11,13 @@
 ---> Past State
 ---> Future State
 
-
+09-06-24
 3. Actions
+---> Repeated Actions
+---> Completed Actions
+---> Future Actions
+
+
 4. Active and Passive voice
 ---> Level - 2
 5. Model verbs

@@ -72,6 +72,12 @@
 ---> Array declaration and initialisation
 ---> Static VS Dynamic array
 ---> 2D array
+        1. Normal method
+                --> Array of integer and allocted memory into stack
+        2. Array of integer pointer
+                --> Partially Stack & Heap
+        3. Double pointer
+                --> Allocated memory into fully Heap
 ---> Row major access
 ---> Column major access
 
