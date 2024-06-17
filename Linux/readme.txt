@@ -52,7 +52,29 @@
         LD_LIBRARY_PATH=<path>
             example: $export LD_LIBRARY_PATH=/home/km/gcc/lib/
 
-    NOTE: Point 3 and 4 is applicable only for the Dynamic library
+    NOTE: 
+    Foe Dynamic linking:
+        Point 3 and 4 is applicable only for the Dynamic library
 
-    For static linking 
+    For static linking:
+        There is no library path, name.
         example: $gcc main.o lib/libcalc.a
+
+16-06-24
+GNU Build System
+    --> .Config file info
+
+17-06-24
+Advanced Linker Concept
+    Three types of symbols
+    1. Global
+        --> Golbal variables
+        --> Global functions
+    2. Static
+        --> Static variables
+        --> Static functions
+    3. External
+        --> External variables
+        --> External functions
+
+
