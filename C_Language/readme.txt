@@ -17,10 +17,18 @@
 ---> do...while
 ---> break
 ---> continue
----> 
+
+18-06-24
 8. Arrays
 9. Pointers
+---> Function parameters and pointer
+---> Array parameters and pointer
+---> Pointer arithmetic: ++, --, ptr+int, ptr-int, and ptr1+ptr2
+---> Void pointer
+---> Null pointer
+---> Pointer VS Array
 10. Dynamic memory alloction
+
 11. Strings in C
 12. Multi dimensional Arrays
 13. Structure and Union
@@ -28,5 +36,7 @@
 
 17-06-24
 . MS DOS Commands
+
+
 . File handling
 . Command line argumments
