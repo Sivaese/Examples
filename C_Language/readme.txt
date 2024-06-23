@@ -53,13 +53,19 @@
 ---> Reasons for alignment
 ---> Union importance and its applications
 
-14. Advanced
+14. Advanced Topics
 ---> Function Pointer
 ---> Passing function as parameter 
 
 17-06-24
-. MS DOS Commands
+        1. MS DOS Commands
+
+-06-24
+        2. File handling
+        3. Command line argumments
 
 
-. File handling
-. Command line argumments
+3 Hrs Online Session
+3 Hrs to work and report
+3 Hrs to revise / rework all concepts
+3 Hrs to improve your communication skills

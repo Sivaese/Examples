@@ -1,0 +1,129 @@
+# Change Repeated actions into Passive Repeated actions
+
+
+1. I read books
+
+2. We teach scienece
+
+3. Every child like ice cream
+
+4.My father encourages sports people
+
+5. I like coffee
+
+6. She forgets her situations
+
+7. Giri operates the computer
+
+8. Ravi organises the events
+
+9. I worship god
+
+10. Balu sings melodious songs
+
+11. Our watchman washes our cream
+
+12. This letter conveys a great message
+
+13. Smitha admires us for our service
+
+14. Temple offers free meals to the poor
+
+15. The doctor gives free medicine
+
+16. I drive my car slowly
+
+17. They deliver good items
+
+18. Platina bike gives mileage of 60 KM per liter
+
+19. We take organe juice
+
+20. They play indoor games actively
+
+21. We read newspaper daily
+
+22. They eat PIZZA in Dominos every Sunday
+
+23. We love india
+
+24. Stars add beauty (to the sky)
+
+25. Mother loves children
+
+26. Venu inspires us (with his words)
+
+27. You help my friends (in every situation)
+
+28. Volunteers provide books (freely in March every year)
+
+29. She gives a beautiful smile
+
+30. Our trainer teaches Passive Voice
+
+# Change the below sentences into Positive Questioning, Negative sentences, 
+and Negative Questioning (In Passive Voice)
+
+1. Books are read by me
+
+2. Science is taught by us
+
+3. Ice cream is liked by every child 
+
+4. Sports people are encouraged my father
+
+5. Coffee is liked by me
+
+6. Her situations are forgotten by her.
+
+7. The computer is operated by Giri
+
+8. The events are organized by Ravi
+
+9. God is worshipped by me
+
+10. Melodious songs are sung by Balu
+
+11. Our car is washed by our watchman
+
+12. A great message is conveyed by this letter
+
+13. We are admired by Smitha for our service
+
+14. Free meals to the poor are offered by temple
+
+(or) The poor are offered free meals by the temple
+
+15. Free medicine is given by the doctor
+
+16. My car is driven slowly by me
+
+17. Good items are delivered by him
+
+18. Mileage of 60 KM/ltr is given by Platina bike
+
+19. Orange juice is taken by us
+
+20. Indoor games are played actively by them
+
+21. Newpaper is read by us daily
+
+22. Pizza is eaten by them in Dominos every Sunday
+
+23. India is loved by us
+
+24. Beauty is added by stars (to the sky)
+
+(or) The sky is added beauty by stars
+
+25. Children are loved by Mother
+
+26. we are inspired by Venu (with huis words)
+
+27. My friends are help by you in every situation
+
+28. The books are provided freely by volunteers in March every year
+
+29. A beautiful smile is given by her.
+
+30. Passive Voice is taught by our trainer
