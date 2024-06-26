@@ -77,4 +77,32 @@ Advanced Linker Concept
         --> External variables
         --> External functions
 
+24-06-24
+Linux System Programming
+
+---> Types of kernels
+        1. Monolithic kernel
+        2. Micro kernel
+
+---> D/F b/w System Programming and Application Programming
+        --> System call info - man 2
+        --> Library info - man 3
+
+---> File Management
+        --> Hello world application program
+        --> Hello world system program
+        
+    1. Basic file operations
+        --> Write() system call
+        --> Read() system call
+
+25-06-24
+        --> Open() system call
+        --> Creat() system call
+        --> Close() system call
+
+---> Write a program your own cat command?
+---> Write a program your own copy command?
+
+    2. Special file operations
 
