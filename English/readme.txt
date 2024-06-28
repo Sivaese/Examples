@@ -17,8 +17,8 @@
 ---> Completed Actions
 ---> Future Actions
 
+4. Passive Voice
 23-06-24
-Passive Voice
 1. Repeated Actions
 2. Completed Actions
 3. Future Actions
@@ -39,10 +39,24 @@ Passive Voice
 12. PV - Discussion - 3
 13. Handling two objects
 
-
-4. Active and Passive voice
 ---> Level - 2
 5. Model verbs
+27-06-24
+1. Can - Present ability
+2. Could - Past ability
+3. Ablie to - Short period
+        --> am / is / are + able to
+        --> was / were + able to
+        --> will be + able to
+4. Will / Would
+
+28-06-24
+5. May / Might
+6. Should
+7. Shall
+
+
+
 6. Levels in describing
 7. Adjectives
 8. Direct and Indirect speech

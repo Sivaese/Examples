@@ -58,11 +58,26 @@
 ---> Passing function as parameter 
 
 17-06-24
-        1. MS DOS Commands
+1. MS DOS Commands
 
--06-24
-        2. File handling
-        3. Command line argumments
+28-06-24
+2. File handling
+        1. Text File
+        --> Basics
+        --> Types of Files
+        --> Types of File operations
+        --> File functions
+                1. fopen()
+                2. fclose()
+                3. putc() and getc()
+                4. fputs() and fgets()
+                5. getw() and putw() -  reading and writing integer data
+                6. fprintf() and fscanf()
+                7. fseek() and ftell(), rewind() are called random access functions
+        2. Binary File
+
+
+3. Command line argumments
 
 
 3 Hrs Online Session

@@ -1,0 +1,12 @@
+Roll num = 101
+name: siva
+marks: 72.000000
+Roll_num = 102
+name: raju
+marks: 77.000000
+Roll_num = 103
+name: raj
+marks: 99.000000
+Roll_num=104
+name:sivaji
+marks:98.000000
